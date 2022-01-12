@@ -1,0 +1,152 @@
+body{
+    font-family: 'Balsamiq Sans';
+}
+
+.contenedorPrincipal{
+    border: 2px solid whitesmoke;
+    width: 530px;
+    height: 400px;
+}
+
+.header{
+    background-color: rgb(125, 131, 131);
+    width: 530px;
+    height: 70px;
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.titulo{
+    font-size: 30px;
+    font-weight: bold;
+    padding:20px 0px 20px 20px ;
+}
+
+.search{
+    width: 200px;
+    height: 20px;
+    margin-left:60px;
+    margin-top: 5px;
+}
+
+.boton{
+    width: 50px;
+    height: 20px;
+    font-size: 11px;
+    color: white;
+    background-color: rgb(91, 139, 241);
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
+    margin-left:30px;
+    cursor: pointer;
+}
+
+
+.tarjetaInformacion1{
+    border: 2px solid black;
+    margin-top: 15px;
+    padding-bottom: 10px;
+    height: 120px;
+    width: 350px;
+    display:flex;
+    flex-direction: column;
+}
+
+.titulo1{
+    font-size: 30px;
+    font-weight: 20px;
+    margin-top: 10px;
+    margin-bottom: 1px;
+    padding-left: 20px;
+}
+
+.noun{
+    font-size: 15px;
+    font-weight: 20px;
+    font-style: italic;
+    padding-left: 35px;
+
+}
+
+.plural{
+    font-size: 13px;
+    padding-left: 20px;
+}
+
+.ninjaplural{
+    font-style: italic;
+
+}
+.boton1{
+    width: 55px;
+    height: 20px;
+    font-size: 10px;
+    color: black;
+    background-color: rgb(235, 202, 112);
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
+    position: relative;
+    top: 30px;
+    right: 75px;
+    cursor: pointer;
+
+}
+
+.significado{
+    position:relative;
+    bottom:33px;
+    left: 110px;
+    width: 170px;
+}
+
+.tarjetaInformacion2{
+    border: 2px solid black;
+    margin-top: 40px;
+    padding-bottom: 10px;
+    height: 120px;
+    width: 350px;
+    display:flex;
+    flex-direction: column;
+    position: relative;
+    right: 22px;
+
+}
+
+.tarjetaInformacion3{
+    border: 2px solid black;
+    margin-top: 40px;
+    padding-bottom: 10px;
+    height: 100px;
+    width: 150px;
+    display:flex;
+    flex-direction: column;
+    position: relative;
+    left: 350px;
+    bottom:322px;
+}
+
+.titulo3{
+    font-size: 20px;
+    padding-left: 10px;    
+}
+.boton3{
+    width: 100px;
+    height: 20px;
+    font-size: 10px;
+    color: black;
+    background-color: rgb(109, 170, 109);
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
+    margin-left: 20px;
+    position: relative;
+    bottom: 10px;
+    cursor: pointer;
+
+}
+
+.you{
+    font-weight: bold;
+}
